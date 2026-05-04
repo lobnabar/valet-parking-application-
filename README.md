@@ -1,3 +1,6 @@
+<img width="1885" height="758" alt="valet parking application" src="https://github.com/user-attachments/assets/92e85ca4-5026-415e-af83-8a331c084b2b" />
+
+
 # Valet Parking Application - Manual Testing
 
 This repository contains the manual testing work for the **Valet Parking Application** project.  
