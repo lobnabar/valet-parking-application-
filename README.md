@@ -1,7 +1,7 @@
 # Valet Parking Application - Manual Testing
 
 This repository contains the manual testing work for the **Valet Parking Application** project.  
-The testing process was organized and tracked using Trello.
+The testing process was organized and tracked using Trello(https://trello.com/invite/b/680563c14e8838e8318bcf09/ATTI093d1f9a74091f8798e2269bc2d88becC85323CC/valet-parking-application).
 
 ## Testing Scope
 
